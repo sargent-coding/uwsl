@@ -1,2 +1,0 @@
-# uhpl
-Universal Homepage Layout
